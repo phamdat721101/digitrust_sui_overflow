@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.LOG_B_P_ERR_MARGIN_UPPER_X64 = exports.LOG_B_P_ERR_MARGIN_LOWER_X64 = exports.LOG_B_2_X32 = exports.BIT_PRECISION = exports.MIN_SQRT_PRICE = exports.MAX_SQRT_PRICE = exports.MIN_TICK_INDEX = exports.MAX_TICK_INDEX = void 0;
+exports.MAX_TICK_INDEX = 443636;
+exports.MIN_TICK_INDEX = -443636;
+exports.MAX_SQRT_PRICE = "79226673515401279992447579055";
+exports.MIN_SQRT_PRICE = "4295048016";
+exports.BIT_PRECISION = 14;
+exports.LOG_B_2_X32 = "59543866431248";
+exports.LOG_B_P_ERR_MARGIN_LOWER_X64 = "184467440737095516";
+exports.LOG_B_P_ERR_MARGIN_UPPER_X64 = "15793534762490258745";
